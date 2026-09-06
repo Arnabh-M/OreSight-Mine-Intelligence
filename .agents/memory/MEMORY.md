@@ -1,0 +1,1 @@
+- [Frontend contract fixtures](frontend-contract-fixtures.md) — keep mock data wire-compatible with the documented REST contract; adapt only at component boundaries.
